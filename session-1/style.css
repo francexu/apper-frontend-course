@@ -1,0 +1,239 @@
+body {
+    margin: 0;
+}
+
+/* .nav-1 {
+    border: 1px solid black;
+    height: 25px;
+    width: 100%;
+} */
+
+.nav1-container {
+    margin: 0 126px;
+    border: 1px solid black;
+    height: 25px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 17px;
+}
+
+.nav1-opt {
+    /* margin: 0 126px; */
+    border: 1px solid black;
+    height: 25px;
+    width: 94.66px;
+}
+
+/* .nav-2 {
+    border: 1px solid black;
+    height: 64px;
+    width: 100%;
+    margin-top: 11px;
+} */
+
+.nav2-container {
+    margin: 0 126px;
+    border: 1px solid black;
+    height: 64px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 200px;
+    border: 1px solid black;
+
+}
+
+.search {
+    width: 688px;
+    height: 45px;
+    border: 1px solid black;
+    margin-top: 9px;
+}
+
+.cart {
+    width: 45px;
+    border: 1px solid black;
+}
+
+.promo {
+    width: 188px;
+    border: 1px solid black;
+}
+
+/* .banner {
+    height: 344px;
+    border: 1px solid black;
+    display: flex;
+} */
+
+.banner-container {
+    /* width: 1186px; */
+    height: 344px;
+    border: 1px solid black;
+    margin: 0 126px;
+    display: flex;
+}
+
+.opt-container {
+    width: 200px;
+    height: 344px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.opts {
+    border: 1px solid black;
+    width: 200px;
+    height: 27px;
+}
+
+.img-container {
+    /* width: 988px; */
+    border: 1px solid black;
+}
+
+.other-menu-container {
+    margin: 0 126px;
+    border: 1px solid black;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.load {
+    height: 40px;
+    border: 1px solid black;
+    width: 386.688px;
+    border-radius: 35px;
+}
+
+.lazmall {
+    height: 40px;
+    border: 1px solid black;
+    width: 386.688px;
+    border-radius: 35px;
+}
+
+.vouchers {
+    height: 40px;
+    border: 1px solid black;
+    width: 386.688px;
+    border-radius: 35px;
+}
+
+.flash-sale {
+    margin: 0 126px;
+    margin-top: 24px;
+    border: 1px solid black;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flash-sale-name-container {
+    height: 40px;
+    border: 1px solid black;
+    width: 100.39px;
+}
+
+.flash-sale-header-container {
+    margin: 0 126px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.on-sale-now {
+    border: 1px solid black;
+    height: 60px;
+    width: 79.508px;
+    margin-left: 10px;
+}
+
+.ending-in-container {
+    border: 1px solid black;
+    height: 60px;
+    width: 228.961px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.ending-in {
+    border: 1px solid black;
+    height: 60px;
+    width: 57.149px;
+}
+
+.time {
+    border: 1px solid black;
+    height: 35px;
+    width: 40px;
+    margin: 12px 6px;
+}
+
+.colon {
+    border: 1px solid black;
+    height: 35px;
+    width: 3px;
+    margin: 12px 0;
+}
+
+.whitespace {
+    width: 500px;
+    /* border: 1px solid black; */
+}
+
+.shop-all-products {
+    border: 1px solid black;
+    height: 33px;
+    width: 138.680px;
+    padding: 0 10px;
+    margin-top: 13px;
+    margin-right: 11px;
+}
+
+.flash-sale-item-container {
+    border: 1px solid black;
+    height: 290px;
+    margin: 0 126px;
+    display: flex;
+    gap: 12px;
+}
+
+.item {
+    border: 1px solid black;
+    height: 290px;
+    width: 188px;
+}
+
+.item-img {
+    border: 1px solid black;
+    height: 188px;
+    width: 184px;
+}
+
+.item-name {
+    border: 1px solid black;
+    height: 36px;
+    width: 172px;
+    margin: 4px 6px;
+}
+
+.item-price {
+    border: 1px solid black;
+    height: 22px;
+    width: 172px;
+    margin: 4px 6px;
+}
+
+.item-sale {
+    border: 1px solid black;
+    height: 16px;
+    width: 172px;
+    margin: 4px 6px;
+}
